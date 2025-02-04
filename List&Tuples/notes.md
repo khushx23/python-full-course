@@ -10,5 +10,5 @@
 Each item/element in a list has its own unique index. This index can be used to access any particular item from the list. The first item has index [0], second item has index [1], third item has index [2] and so on.
 
 colors = ["Red", "Green", "Blue", "Yellow", "Green"]
-#          [0]      [1]     [2]      [3]      [4]
+          [0]      [1]     [2]      [3]      [4]
 
