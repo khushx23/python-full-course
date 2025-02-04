@@ -68,3 +68,4 @@ print(MARKS)
 
 MARKS.remove(75)
 print(MARKS)
+
